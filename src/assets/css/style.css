@@ -942,7 +942,7 @@ END Achivement Area
 .testimonial-item {
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    margin: 22px;
+    height: 200px;
 }
 
 .tauthor-meta {
