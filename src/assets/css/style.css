@@ -345,6 +345,7 @@ font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     color: #fff;
     letter-spacing: 0;
+    background: url(../img/Google_play_store.png) top center no-repeat;
 }
 
 .btn-area a:hover {
